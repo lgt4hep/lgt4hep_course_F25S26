@@ -4,11 +4,11 @@ Collection of course materials to be used for the lattice-QCD training course as
 
 ## Course Information Sheet
 
-Welcome to the LGT4HEP Traineeship Course (Fall 2024/Spring 2025). Below is the information sheet for the course (continuously updated):
+Welcome to the LGT4HEP Traineeship Course (Fall 2025/Spring 2026). Below is the information sheet for the course (continuously updated):
 
-The course consists of several modules each semester, as listed below. Each module may run for one, two, or three weeks, depending on the topic. Each week consists of two sessions. Each session consists of a one-hour lecture presented by the designated student lecturer. Each session also includes a half-an-hour discussion and Q/A slot involving student lecturers, expert faculty assigned to the module, and other students in the class.
+The course consists of several modules each semester, as listed below. Each module may run for one, two, or three weeks, depending on the topic. Each week consists of two sessions. Each session consists of a one-hour lecture presented by the designated student lecturer and/or faculty. Each session also includes a half-an-hour discussion and Q/A slot involving student lecturers, expert faculty assigned to the module, and other students in the class.
 
-A team of students will be in charge of preparing, presenting, and distributing a set of lecture notes on the topic of each module. The number of team members depends on the length of the module. For example, a two-week module will require 4 student lecturers to work together to prepare the content of the lectures. Each of the four students will present one of the lectures in class. The team formations and module assignments will be conducted prior to the start of the course.
+A team of students will be in charge of preparing, presenting, and distributing a set of lecture notes on the topic of each module. The number of team members depends on the length of the module. For example, a two-week module will require more student lecturers to work together to prepare the content of the lectures. Each student will present at least one of the lectures in class. The team formations and module assignments will be conducted prior to the start of the course.
 
 For students who are doing the student-led lectures:
 1. the student team meets with the expert faculty assigned to the module three times. The first meeting happens two weeks prior to the start of the module so the expert faculty can advise on the resources the students should study and the content they should cover. The second meeting occurs one week before the start of the module so the expert faculty can be updated on the progress in lecture development, to provide timely feedback, and to answer any technical questions regarding the content of the module. The final meeting between expert faculty and student team happens the week after the end of the module to provide feedback on lecture contents and delivery.
