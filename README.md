@@ -20,7 +20,7 @@ For students who are doing the student-led lectures:
 There will be a semester projects and presentation for those students who does not participate the student-led lectures. The students are encouraged to form team to work on the project, starting from roughly mid-point of the lecture schedule, and aim to complete on the last week of the class. 
 
 
-## Unit 01: From path integrals to QCD: overview of continuum theory (2 weeks)
+## Unit 01: From path integrals to QCD: overview of continuum theory 
 
 ###  Lecture topics
 - Path Integrals in Quantum Mechanics
@@ -47,7 +47,7 @@ There will be a semester projects and presentation for those students who does n
 - David Tong's notes on Lattice Gauge Theory: https://www.damtp.cam.ac.uk/user/tong/gaugetheory/4lattice.pdf
 
 
-## Unit 02: From scalar to gauge theories, on the lattice (3 weeks)
+## Unit 02: From scalar to gauge theories, on the lattice 
 
 ###  Lecture topics
 - More on lattice scalar field theories: the O(n) model
@@ -63,7 +63,7 @@ There will be a semester projects and presentation for those students who does n
 - Smit -"Introduction to Quantum Fields on a Lattice"
 
 
-## Unit03: Fermion actions and chiral fermions (2 weeks)
+## Unit03: Fermion actions and chiral fermions 
 
 ### Lecture Topics
 - Fermion doubling
@@ -85,7 +85,7 @@ There will be a semester projects and presentation for those students who does n
 - Montvay and Münster - "Quantum Fields on a lattice" 
 - Christoph Lehner - LQCD Lecture notes: https://homepages.uni-regensburg.de/~lec17310/teaching/wise2324/lqft.html Chapter 10, 11, and 12
 
-## Unit 04: Renormalization (2 weeks)
+## Unit 04: Renormalization 
 
 
 ### Suggested lecture topics
@@ -117,27 +117,27 @@ There will be a semester projects and presentation for those students who does n
 
 - RI/SMOM: [Renormalization of quark bilinear operators...](https://arxiv.org/abs/0901.2599)
 
-## Unit 05: Computing algorithms and HPC (2 weeks)
+## Unit 05: Computing algorithms and HPC 
 ### Lecture Topics
-  - Class 1 
+  - Part 1 
   	- Introduce the problem, and need for Markov Chains
   	- Markov Chain as a solution
   	- Conditions needed to reach equilibrium. e. g. irreducible, apereodic, positive.
   	- Introduction to Transition Probability  (Exercise).
   	-  Balance equation, Detailed balance condition
-  - Class  2 
+  - Part 2 
        - Transition matrix
        - How does the transition probability satisfy detailed balance?
        - Sampling of different PDFs
        - Metropolis Algorithm
        - Rejection/ Heatbath Algorithm
        - Implementation of $\phi^{4}$ theory (Exercise).
- - Class 3
+ - Part 3
  	- Implementation of Heatbath for Pure Gauge $SU(2)$, $SU(N)$
   	- Global Updating Algorithms
    	- Pseudo-fermion problem
    	- $det(M)$ calculation
- - Class 4
+ - Part 4
  	- Molecular Dynamics, needs inversions
   	- Conjugate Gradient
    	- Hybrid Monte Carlo (HMC), an exact algorithm
@@ -148,7 +148,7 @@ There will be a semester projects and presentation for those students who does n
 - Gattringer, C., & Lang, C. (2009). Quantum chromodynamics on the lattice: an introductory presentation (Vol. 788). Springer Science & Business Media.
 - Joseph, A., & Joseph, A. (2020). Markov Chain Monte Carlo. Markov Chain Monte Carlo Methods in Quantum Field Theories: A Modern Primer, 37-42.
 
-## Unit 06: Quantum computing and simulation (2 weeks)
+## Unit 06: Quantum computing and simulation 
 ### Lecture Topics
 - PRE-LECTURE: QUANTUM SIMULATION OF FUNDAMENTAL PARTICLES AND FORCES, WHY AND HOW? 
   	
@@ -184,7 +184,7 @@ There will be a semester projects and presentation for those students who does n
 - Quantum simulation of fundamental particles and forces, Bauer, Davoudi, Klco, Savage, Nature Rev.Phys. 5 (2023) 7, 420-432, arXiv:2404.06298 [hep-ph].
 - Quantum Simulation for High Energy Physics, Bauer, Davoudi et al, PRX Quantum 4, 027001 (2023), arXiv:2204.03381 [quant-ph].
 
-## Unit 07: Machine learning in lattice QCD (2 weeks)
+## Unit 07: Machine learning in lattice QCD 
 
 ### Learning Goals 
 - Learn about basics of machine learning
@@ -210,7 +210,7 @@ We only showed a simple example in this class, but there are many fun examples o
 Here are a few fun ones you can play around in your own time if you would like to do more deep learning.
 
 1. [Google image classification](
-https://developers.google.com/machine-learning/practica/image-classification): the classcial Cats vs Dongs classification
+https://developers.google.com/machine-learning/practica/image-classification): the classcial Cats vs Dogs classification
 
 1. [NeMo Voice Swap](https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/VoiceSwapSample.ipynb): Use Nvidia's NeMo conversational AI Toolkit to swap a voice in an audio fragment with a computer generated one.
 
