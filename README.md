@@ -1,4 +1,4 @@
-# lgt4hep_course
+# LGT4HEP Lattice Gauge Theory Course
 
 Collection of course materials to be used for the lattice-QCD training course as part of the [LGT4HEP](https://lgt4hep.github.io) traineeship.
 
