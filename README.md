@@ -177,6 +177,7 @@ There will be a semester projects and presentation for those students who does n
    	- Outlining the differences between Abelian and non-Abelian algorithms
    	- What we did not cover  
 ### References
+- TASI Lecture Notes on "Toward Quantum Computing Gauge Theories of Nature" by Z. Davoudi, https://arxiv.org/abs/2507.15840.
 - "[Lectures](https://indico.cern.ch/event/1342488/timetable/#20240722.detailed)" on Foundation of Quantum Computing for Lattice Gauge Theory at the CERN School on Continuum Foundations of Lattice Gauge Theories, July 2024.
 - Quantum Computation and Quantum Information, Michael A. Nielsen & Isaac L. Chuang, Cambridge university press, 2010.
 - Hamiltonian formulation of Wilson's lattice gauge theories, John Kogut and Leonard Susskind Phys. Rev. D 11, 395 (1975).
